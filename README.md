@@ -44,5 +44,10 @@ Parte 2
 	Regras de Negócio
 	
 	Requisitos do Sistema
+
+
+
+
+
 	
 	Matriz de Rastreabilidade
